@@ -30,11 +30,13 @@ const StyledSocialLinks = styled.div`
     margin: 0;
     list-style: none;
 
-    a {
-      padding: 10px;
-      svg {
-        width: 20px;
-        height: 20px;
+    li {
+      a {
+        padding: 10px;
+        svg {
+          width: 20px;
+          height: 20px;
+        }
       }
     }
   }
@@ -58,6 +60,7 @@ const StyledCredit = styled.div`
       align-items: center;
       margin: 0 7px;
     }
+
     svg {
       display: inline-block;
       margin-right: 5px;
@@ -104,11 +107,9 @@ const Footer = () => {
         </ul>
       </StyledSocialLinks>
 
-      <StyledCredit tabindex="-1">
+      <StyledCredit tabIndex="-1">
         <a href="https://www.linkedin.com/in/felipedabed/">
-          <div> built by me with ❤️</div>
-
-
+          <div>2024</div>
         </a>
       </StyledCredit>
     </StyledFooter>
