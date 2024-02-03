@@ -1,19 +1,19 @@
 ---
 date: '2021-07-02'
 title: ''
-range: 'Sep 2020 - Present'
+range: 'Sep 2020 - Jul 2022'
 company: 'Yom Mercado'
 location: 'Santiago,CL'
 url: 'https://www.yom.la/'
 ---
 
 <h4> Product Lead, Payments & CS </h4>
-<h5  style=" color: #8892b0"> Jul 2021 - Present</h5>
+<h5  style=" color: #8892b0"> Jul 2021 - Jul 2022</h5>
 
 
 - Increase Digital Payments from 15% to 55% for small-stores in 9 months.
 - Improved user retention by 35% YoY by leveraging data analytics and user research.
-- Lead 10-person cross-functional team across engineering, design and data, using Agile Scrum.
+- Lead 15-person cross-functional team across engineering, design and data, using Agile Scrum.
 - Developed automated fraud diagnostic reports, reducing losses by 31%.
 
 <br>

@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/felipe-dabed/',
+      url: 'https://www.linkedin.com/in/felipedabed/',
     },
 
   ],

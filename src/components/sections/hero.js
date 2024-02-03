@@ -59,8 +59,8 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Felipe Dabed.</h2>;
-  const three = <h3 className="big-heading">I build amazing products.</h3>;
+  const two = <h2 className="big-heading">Felipe Dabed,</h2>;
+  const three = <h3 className="big-heading">Crafting Product Adventures</h3>;
   const four = (
     <>
       <p>
@@ -71,7 +71,7 @@ const Hero = () => {
   const five = (
     <a
       className="linkedin-link"
-      href="https://www.linkedin.com/in/felipe-dabed/"
+      href="https://www.linkedin.com/in/felipedabed/"
       target="_blank"
       rel="noreferrer">
       Check out my LinkedIn!

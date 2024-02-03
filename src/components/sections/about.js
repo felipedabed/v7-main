@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Jira', 'React', 'Trello', 'Pandas','Adobe XD','GSuite'];
+  const skills = ['Spreadsheets','Jira', 'React', 'Pandas','Adobe XD','Customer.io','Amplitude','Miro'];
 
 
   return (
@@ -136,8 +136,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Felipe and I really enjoy creating things that live on the internet. My
-              interest in  started sometime in college, when I found out I could prototype apps using existent software.
+              Hello! I really enjoy creating things that live on the internet. My interest started
+               in college, when I found out I could prototype apps using existent software.
             </p>
 
             <p>

@@ -7,6 +7,6 @@ range: 'Dec 2019 - Sep 2020'
 url: 'https://www.latamairlines.com'
 ---
 
-- Demand forecasting during Covid-19 crisis. 90% accuracy.
+- Demand forecasting during Covid-19 crisis. 15% deviation.
 - Design, creation analysis of main KPIs processes with a CX impact.
 - KPIs Presentations with managers directors boards
